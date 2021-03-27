@@ -116,11 +116,11 @@ E - Learning Content Development
 
 
 <h2>Contact Us</h2>
-<h4><b>Sales.: - Cont. No.: - 8750327169<b></h4>
-<h4><b>Support.: - Con. No.: - 7827046470<b></h4>
+<h4><b>Sales.: - Cont. No.: - 8750327169<b>
+<h4><b>Support.: - Con. No.: - 7827046470<b>
 <hr>
-<h4><b>Sales.: - Email - ashutoshkumargautam@protonmail.com<b></h4>
-<h4><b>Support.: - Email - ashutoshkumargautam@protonmail.com<b></h4>
+<h4><b>Sales.: - Email - ashutoshkumargautam@protonmail.com<b>
+<h4><b>Support.: - Email - ashutoshkumargautam@protonmail.com<b>
 
 
 </body>
