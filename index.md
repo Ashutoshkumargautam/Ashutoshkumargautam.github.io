@@ -13,17 +13,17 @@
    <h1>Hello! i am Ashutosh kumar gautam </h1>
    <p>how i can help you?</p>
   <hr>
-   Ashutosh Kumar
-
-Our Services - What we provide 
-
-Programming & Tech
-Digital Marketing
-Cyber Security
-Graphic & Design
-Video & Animation
-Business
-Writing & Translation
+   
+<h2> Our Services - What we provide </h2> 
+<ul>
+   <li>Programming & Tech</li>
+<li>Digital Marketing</li>
+<li>Cyber Security</li>
+<li>Graphic & Design</li>
+<li>Video & Animation</li>
+<li>Business</li>
+<li>Writing & Translation</li>
+</ul>
 
 Programming & Tech
 
