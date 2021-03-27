@@ -25,22 +25,22 @@
 <li>Writing & Translation</li>
 </ul>
 
-Programming & Tech
-
-Website Development
-Mobile Application Development  - Mobile App
-Desktop Application Development - Desktop App
-E-Commerce Development
-Website Builders & CMS
-Game Development 
-Automation & Ai
-Chat Bots
-User Testing
-Support & IT
-Database
-Raspberry Pi 4
-Arduino
-
+<h2>Programming & Tech</h2>
+<ul>
+   <li>Website Development</li>
+<li>Mobile Application Development  - Mobile App</li>
+<li>Desktop Application Development - Desktop App</li>
+<li>E-Commerce Development</li>
+<li>Website Builders & CMS</li>
+<li>Game Development</li>
+<li>Automation & Ai</li>
+<li>Chat Bots</li>
+<li>User Testing</li>
+<li>Support & IT</li>
+<li>Database</li>
+<li>Raspberry Pi 4</li>
+<li>Arduino</li>
+</ul>
 
 Digital Marketing
 
