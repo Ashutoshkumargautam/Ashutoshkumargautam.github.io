@@ -23,7 +23,6 @@
 <li>Video & Animation</li>
 <li>Business</li>
 <li>Writing & Translation</li>
-</ul>
 
 <h2>Programming & Tech</h2>
 <ul>
@@ -40,7 +39,6 @@
 <li>Database</li>
 <li>Raspberry Pi 4</li>
 <li>Arduino</li>
-</ul>
 
 <h2>Digital Marketing</h2>
 <ul>
@@ -66,7 +64,6 @@
 <li>Forensic 
 <li>Viruses attack Prevention
 <li>Penetration Testing 
-</ul>
 
 <h2>Graphic & Design</h2>
 <ul>
@@ -75,7 +72,6 @@
 <li>Infographic Design
 <li>Social Media Design
 <li>Web & mobile design
-</ul>
 
 <h2>Video & Animation</h2>
 <ul>
@@ -101,7 +97,7 @@
 <li>Virtual Assistant
 <li>Customer Care
 <li>Market Research
-</ul>
+
 
 
 <h2>Writing & Translation</h2>
