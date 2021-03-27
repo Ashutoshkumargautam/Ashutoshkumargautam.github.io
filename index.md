@@ -42,75 +42,79 @@
 <li>Arduino</li>
 </ul>
 
-Digital Marketing
-
-SEO - SEARCH ENGINE OPTIMIZATION
-SEM -  Search Engine Marketing
-SMO - Social Media Optimization
-SMM - Social Media Marketing
-ORM - Object–relational mapping
-PPC - Pay Per Click
-Content Marketing
-Video Marketing
-Email Marketing
-
-
-Cyber Security
-
-Prevent, detect & remediate attacks
-Encrypt sensitive information & protect data
-Privacy
-Rasware attack Prevention 
-Data Recovery 
-Data Mining 
-Forensic 
-Viruses attack Prevention
-Penetration Testing 
-
-Graphic & Design
-Logo Design
-Photoshop Editing
-Infographic Design
-Social Media Design
-Web & mobile design
+<h2>Digital Marketing</h2>
+<ul>
+<li>SEO - SEARCH ENGINE OPTIMIZATION
+<li>SEM -  Search Engine Marketing
+<li>SMO - Social Media Optimization
+<li>SMM - Social Media Marketing
+<li>ORM - Object–relational mapping
+<li>PPC - Pay Per Click
+<li>Content Marketing
+<li>Video Marketing
+<li>Email Marketing
 
 
-Video & Animation
-Animation 
-Gif and Image Arts
-Video 	Creation and Editing 
-Animated Gifs
-Product Photography
-Logo Animation
-Short Video Ads
+<h2>Cyber Security</h2>
+<ul>
+<li>Prevent, detect & remediate attacks
+<li>Encrypt sensitive information & protect data
+<li>Privacy
+<li>Rasware attack Prevention 
+<li>Data Recovery 
+<li>Data Mining 
+<li>Forensic 
+<li>Viruses attack Prevention
+<li>Penetration Testing 
+</ul>
+
+<h2>Graphic & Design</h2>
+<ul>
+<li>Logo Design
+<li>Photoshop Editing
+<li>Infographic Design
+<li>Social Media Design
+<li>Web & mobile design
+</ul>
+
+<h2>Video & Animation</h2>
+<ul>
+<li>Animation 
+<li>Gif and Image Arts
+<li>Video Creation and Editing 
+<li>Animated Gifs
+<li>Product Photography
+<li>Logo Animation
+<li>Short Video Ads
 
 
 
 
 
-Business
+<h2>Business</h2>
+<ul>
+<li>Branding Services
+<li>Presentation
+<li>Business Consulting
+<li>Business Plans
+<li>Data Entry
+<li>Virtual Assistant
+<li>Customer Care
+<li>Market Research
+</ul>
 
-Branding Services
-Presentation
-Business Consulting
-Business Plans
-Data Entry
-Virtual Assistant
-Customer Care
-Market Research
 
-
-Writing & Translation
-
-Article and Blog Posts
-Website Content
-Ux Writing
-Technical Writing
-Ad Copy
-Product Description
-Email Copy
-Research and Summery
-E - Learning Content Development
+<h2>Writing & Translation</h2>
+<ul>
+<li>Article and Blog Posts
+<li>Website Content
+<li>Ux Writing
+<li>Technical Writing
+<li>Ad Copy
+<li>Product Description
+<li>Email Copy
+<li>Research and Summery
+<li>E - Learning Content Development
 
 
 
