@@ -119,8 +119,8 @@ E - Learning Content Development
 <h4><b>Sales.: - Cont. No.: - 8750327169<b></h4>
 <h4><b>Support.: - Con. No.: - 7827046470<b></h4>
 <hr>
-<h4><b>Sales.: - Email - contact@digitech.com<b></h4>
-<h4><b>Support.: - Email - support@digitech<b></h4>
+<h4><b>Sales.: - Email - ashutoshkumargautam@protonmail.com<b></h4>
+<h4><b>Support.: - Email - ashutoshkumargautam@protonmail.com<b></h4>
 
 
 </body>
