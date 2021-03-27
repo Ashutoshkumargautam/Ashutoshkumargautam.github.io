@@ -23,7 +23,7 @@
 <li>Video & Animation</li>
 <li>Business</li>
 <li>Writing & Translation</li>
-   </ul>
+</ul>
 
 <h2>Programming & Tech</h2>
 <ul>
@@ -40,79 +40,79 @@
 <li>Database</li>
 <li>Raspberry Pi 4</li>
 <li>Arduino</li>
- </ul>
+</ul>
 
 <h2>Digital Marketing</h2>
 <ul>
-<li>SEO - SEARCH ENGINE OPTIMIZATION
-<li>SEM -  Search Engine Marketing
-<li>SMO - Social Media Optimization
-<li>SMM - Social Media Marketing
-<li>ORM - Object–relational mapping
-<li>PPC - Pay Per Click
-<li>Content Marketing
-<li>Video Marketing
-<li>Email Marketing
- </ul>
+<li>SEO - SEARCH ENGINE OPTIMIZATION</li>
+<li>SEM -  Search Engine Marketing</li>
+<li>SMO - Social Media Optimization</li>
+<li>SMM - Social Media Marketing</li>
+<li>ORM - Object–relational mapping</li>
+<li>PPC - Pay Per Click</li>
+<li>Content Marketing</li>
+<li>Video Marketing</li>
+<li>Email Marketing</li>
+</ul>
 
 <h2>Cyber Security</h2>
 <ul>
-<li>Prevent, detect & remediate attacks
-<li>Encrypt sensitive information & protect data
-<li>Privacy
-<li>Rasware attack Prevention 
-<li>Data Recovery 
-<li>Data Mining 
-<li>Forensic 
-<li>Viruses attack Prevention
-<li>Penetration Testing 
- </ul>
+<li>Prevent, detect & remediate attacks</li>
+<li>Encrypt sensitive information & protect data</li>
+<li>Privacy</li>
+<li>Rasware attack Prevention</li> 
+<li>Data Recovery </li>
+<li>Data Mining </li>
+<li>Forensic </li>
+<li>Viruses attack Prevention</li>
+<li>Penetration Testing</li> 
+</ul>
 
 <h2>Graphic & Design</h2>
 <ul>
-<li>Logo Design
-<li>Photoshop Editing
-<li>Infographic Design
-<li>Social Media Design
-<li>Web & mobile design
- </ul>
+<li>Logo Design</li>
+<li>Photoshop Editing</li>
+<li>Infographic Design</li>
+<li>Social Media Design</li>
+<li>Web & mobile design</li>
+</ul>
 
 <h2>Video & Animation</h2>
 <ul>
-<li>Animation 
-<li>Gif and Image Arts
-<li>Video Creation and Editing 
-<li>Animated Gifs
-<li>Product Photography
-<li>Logo Animation
-<li>Short Video Ads
- </ul>
+<li>Animation </li>
+<li>Gif and Image Arts</li>
+<li>Video Creation and Editing</li> 
+<li>Animated Gifs</li>
+<li>Product Photography</li>
+<li>Logo Animation</li>
+<li>Short Video Ads</li>
+</ul>
 
 <h2>Business</h2>
 <ul>
-<li>Branding Services
-<li>Presentation
-<li>Business Consulting
-<li>Business Plans
-<li>Data Entry
-<li>Virtual Assistant
-<li>Customer Care
-<li>Market Research
- </ul>
+<li>Branding Services</li>
+<li>Presentation</li>
+<li>Business Consulting</li>
+<li>Business Plans</li>
+<li>Data Entry</li>
+<li>Virtual Assistant</li>
+<li>Customer Care</li>
+<li>Market Research</li>
+</ul>
 
 
 <h2>Writing & Translation</h2>
 <ul>
-<li>Article and Blog Posts
-<li>Website Content
-<li>Ux Writing
-<li>Technical Writing
-<li>Ad Copy
-<li>Product Description
-<li>Email Copy
-<li>Research and Summery
-<li>E - Learning Content Development
- </ul>
+<li>Article and Blog Posts</li>
+<li>Website Content</li>
+<li>Ux Writing</li>
+<li>Technical Writing</li>
+<li>Ad Copy</li>
+<li>Product Description</li>
+<li>Email Copy</li>
+<li>Research and Summery</li>
+<li>E - Learning Content Development</li>
+</ul>
  
 <h2>Contact Us</h2>
 <h4><b>Sales.: - Cont. No.: - 8750327169<b>
